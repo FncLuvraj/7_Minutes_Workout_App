@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/luvrajsingh/.gradle/caches/transforms-3/d06e60d6d49ddf04d951d531f336b9c2/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/bd00542f30c126817e2050bf4a5e9235/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/40d315df2a773d0f6f1b05e3085ef6ca/transformed/jetified-activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/af088129b264e38e18a4c824e5932518/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5a3e51d9d3bf13afa5f76faada65dc67/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c757cf49be54a9c3d3185c7a89d6de81/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/1f32e1a2627ee7417c8e63fffba2f220/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/82d01ea18c2dc135c82880c2782fb66a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/3ebfb6c725939f6f0eb17342099c8f09/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6992373c65c655b5c4a348ed8d0b6cf5/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/luvrajsingh/.gradle/caches/transforms-3/6f400cf71312b4d19b880072fe153953/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/da44b982cc2f2fb60504a68887be03f0/transformed/jetified-activity-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/4cbefc44e2a615a6dfd05ed253d73de8/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/fcc21e71c545333ba196b47682c8538b/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/88c46646fdf085967cb1a077341d6152/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/560a0e3ef9231676fff3f4983a716e2c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/406dc1c5f21afc347b149e773c894568/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/44264cfb254cb1fb194ca603b7a0c595/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/aab93a5eedcb1584728f5c6203584b0f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6602d1bec71f40e43d838be8a797d212/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ed9eddb6528fc544fa447557d87463de/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70d935ed606233f9f6b22819dec35db5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/df0cfb53479545f1b5b5dc5cb18cbea4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a841a495f2bbe0b32eba9bbefd5082d3/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4681861cb92d26b9cf974b82f155269c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/348f6d52d990d4fb4fcc5abc17a1cdcd/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/beee20d34a4b5d1150c31afbf23f3300/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/42274d09279a4def4b45e96c37e3d6b4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/758b2b84225249de14dc34bece649ed8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/353d4fd14e31b41f6d8c00c8ca626e7f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/95277687e2e58903d7a1da2245ae6ad0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/aec2c0afb6fcdb18737b437ba9fa02a8/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/00d4ef47cd50847a8b9eec63c7b5c077/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7998826f34582ec5c31c623a2bf5c788/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0aa1a2ba89a069fbdf0def778baf15a8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5bf9f8a386d7d9fd23748057b9879e6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/9df8f8daee0b9cd59030d3e44c66c2e1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c3f2c3bd5ebcd3bee67e8f4c630f2adb/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/47a67f589c963a5ce56c190a1f042f90/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a293be790c762e9bf2bf1ded83306ac8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2567a90eed9f86a0231fd3a598a2fa0e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/fc223a4f452dd0520fd8cf69f3c61aaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/64b40f86ad418a55531931148e4a58e7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/efb5ab150b0e2afb73890aef5887c8ac/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:2:11-69
+queries
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:4:5-8:15
+intent#action:name:android.intent.action.TTS_SERVICE
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:5:9-7:18
+action#android.intent.action.TTS_SERVICE
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:6:13-72
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:6:21-69
+application
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:10:5-52:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5a3e51d9d3bf13afa5f76faada65dc67/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5a3e51d9d3bf13afa5f76faada65dc67/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c757cf49be54a9c3d3185c7a89d6de81/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c757cf49be54a9c3d3185c7a89d6de81/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/348f6d52d990d4fb4fcc5abc17a1cdcd/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/348f6d52d990d4fb4fcc5abc17a1cdcd/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5bf9f8a386d7d9fd23748057b9879e6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5bf9f8a386d7d9fd23748057b9879e6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/348f6d52d990d4fb4fcc5abc17a1cdcd/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:11:9-66
+activity#luvraj.app.a7_minutesworkoutapp.HistoryActivity
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:18:9-22:80
+	android:screenOrientation
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:21:13-49
+	android:exported
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:22:13-78
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:19:13-75
+activity#luvraj.app.a7_minutesworkoutapp.BMIActivity
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:23:9-27:81
+	android:screenOrientation
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:26:13-49
+	android:exported
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:27:13-78
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:24:13-71
+activity#luvraj.app.a7_minutesworkoutapp.FinishActivity
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:28:9-32:81
+	android:screenOrientation
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:31:13-49
+	android:exported
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:32:13-78
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:29:13-74
+activity#luvraj.app.a7_minutesworkoutapp.ExerciseActivity
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:33:9-37:75
+	android:screenOrientation
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:36:13-49
+	android:exported
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:35:13-36
+	android:theme
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:37:13-72
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:34:13-76
+activity#luvraj.app.a7_minutesworkoutapp.MainActivity
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:38:9-48:20
+	android:screenOrientation
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:41:13-49
+	android:exported
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:40:13-36
+	android:theme
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:42:13-78
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:39:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/luvrajsingh/.gradle/caches/transforms-3/d06e60d6d49ddf04d951d531f336b9c2/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/luvrajsingh/.gradle/caches/transforms-3/d06e60d6d49ddf04d951d531f336b9c2/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/bd00542f30c126817e2050bf4a5e9235/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/bd00542f30c126817e2050bf4a5e9235/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/40d315df2a773d0f6f1b05e3085ef6ca/transformed/jetified-activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/40d315df2a773d0f6f1b05e3085ef6ca/transformed/jetified-activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/af088129b264e38e18a4c824e5932518/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/af088129b264e38e18a4c824e5932518/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5a3e51d9d3bf13afa5f76faada65dc67/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5a3e51d9d3bf13afa5f76faada65dc67/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c757cf49be54a9c3d3185c7a89d6de81/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c757cf49be54a9c3d3185c7a89d6de81/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/1f32e1a2627ee7417c8e63fffba2f220/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/1f32e1a2627ee7417c8e63fffba2f220/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/82d01ea18c2dc135c82880c2782fb66a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/82d01ea18c2dc135c82880c2782fb66a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/3ebfb6c725939f6f0eb17342099c8f09/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/3ebfb6c725939f6f0eb17342099c8f09/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6992373c65c655b5c4a348ed8d0b6cf5/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6992373c65c655b5c4a348ed8d0b6cf5/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/luvrajsingh/.gradle/caches/transforms-3/6f400cf71312b4d19b880072fe153953/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/luvrajsingh/.gradle/caches/transforms-3/6f400cf71312b4d19b880072fe153953/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/da44b982cc2f2fb60504a68887be03f0/transformed/jetified-activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/da44b982cc2f2fb60504a68887be03f0/transformed/jetified-activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/4cbefc44e2a615a6dfd05ed253d73de8/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/4cbefc44e2a615a6dfd05ed253d73de8/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/fcc21e71c545333ba196b47682c8538b/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/fcc21e71c545333ba196b47682c8538b/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/88c46646fdf085967cb1a077341d6152/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/88c46646fdf085967cb1a077341d6152/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/560a0e3ef9231676fff3f4983a716e2c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/560a0e3ef9231676fff3f4983a716e2c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/406dc1c5f21afc347b149e773c894568/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/406dc1c5f21afc347b149e773c894568/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/44264cfb254cb1fb194ca603b7a0c595/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/44264cfb254cb1fb194ca603b7a0c595/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/aab93a5eedcb1584728f5c6203584b0f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/aab93a5eedcb1584728f5c6203584b0f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6602d1bec71f40e43d838be8a797d212/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6602d1bec71f40e43d838be8a797d212/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ed9eddb6528fc544fa447557d87463de/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ed9eddb6528fc544fa447557d87463de/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70d935ed606233f9f6b22819dec35db5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70d935ed606233f9f6b22819dec35db5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/df0cfb53479545f1b5b5dc5cb18cbea4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/df0cfb53479545f1b5b5dc5cb18cbea4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a841a495f2bbe0b32eba9bbefd5082d3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a841a495f2bbe0b32eba9bbefd5082d3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4681861cb92d26b9cf974b82f155269c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4681861cb92d26b9cf974b82f155269c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/348f6d52d990d4fb4fcc5abc17a1cdcd/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/luvrajsingh/.gradle/caches/transforms-3/348f6d52d990d4fb4fcc5abc17a1cdcd/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/beee20d34a4b5d1150c31afbf23f3300/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/beee20d34a4b5d1150c31afbf23f3300/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/42274d09279a4def4b45e96c37e3d6b4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/42274d09279a4def4b45e96c37e3d6b4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/758b2b84225249de14dc34bece649ed8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/758b2b84225249de14dc34bece649ed8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/353d4fd14e31b41f6d8c00c8ca626e7f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/353d4fd14e31b41f6d8c00c8ca626e7f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/95277687e2e58903d7a1da2245ae6ad0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/95277687e2e58903d7a1da2245ae6ad0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/aec2c0afb6fcdb18737b437ba9fa02a8/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/aec2c0afb6fcdb18737b437ba9fa02a8/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/00d4ef47cd50847a8b9eec63c7b5c077/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/00d4ef47cd50847a8b9eec63c7b5c077/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7998826f34582ec5c31c623a2bf5c788/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7998826f34582ec5c31c623a2bf5c788/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0aa1a2ba89a069fbdf0def778baf15a8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0aa1a2ba89a069fbdf0def778baf15a8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5bf9f8a386d7d9fd23748057b9879e6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5bf9f8a386d7d9fd23748057b9879e6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/9df8f8daee0b9cd59030d3e44c66c2e1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/9df8f8daee0b9cd59030d3e44c66c2e1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c3f2c3bd5ebcd3bee67e8f4c630f2adb/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c3f2c3bd5ebcd3bee67e8f4c630f2adb/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/47a67f589c963a5ce56c190a1f042f90/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/47a67f589c963a5ce56c190a1f042f90/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a293be790c762e9bf2bf1ded83306ac8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a293be790c762e9bf2bf1ded83306ac8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2567a90eed9f86a0231fd3a598a2fa0e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2567a90eed9f86a0231fd3a598a2fa0e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/fc223a4f452dd0520fd8cf69f3c61aaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/fc223a4f452dd0520fd8cf69f3c61aaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/64b40f86ad418a55531931148e4a58e7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/64b40f86ad418a55531931148e4a58e7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/efb5ab150b0e2afb73890aef5887c8ac/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/efb5ab150b0e2afb73890aef5887c8ac/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luvrajsingh/Desktop/7MinutesWorkoutApp-172_adding_recyclerview_and_finishing_the_app-2/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ac7ff69e7d5867c30d306a6ef7c68b1b/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74

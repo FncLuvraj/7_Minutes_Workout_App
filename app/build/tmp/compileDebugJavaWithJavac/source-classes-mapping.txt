@@ -1,0 +1,26 @@
+eu/tutorials/a7_minutesworkoutapp/databinding/ItemExerciseStatusBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ItemExerciseStatusBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/DialogCustomBackConfirmationBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.DialogCustomBackConfirmationBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityExerciseBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityExerciseBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityMainBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityMainBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityHistoryBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityHistoryBinding
+eu/tutorials/a7_minutesworkoutapp/BuildConfig.java
+ eu.tutorials.a7_minutesworkoutapp.BuildConfig
+eu/tutorials/a7_minutesworkoutapp/databinding/ItemHistoryRowBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ItemHistoryRowBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityBmiBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityBmiBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityFinishBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityFinishBinding
+luvraj/app/a7_minutesworkoutapp/HistoryDao_Impl.java
+ luvraj.app.a7_minutesworkoutapp.HistoryDao_Impl
+ luvraj.app.a7_minutesworkoutapp.HistoryDao_Impl$1
+ luvraj.app.a7_minutesworkoutapp.HistoryDao_Impl$2
+ luvraj.app.a7_minutesworkoutapp.HistoryDao_Impl$3
+luvraj/app/a7_minutesworkoutapp/HistoryDatabase_Impl.java
+ luvraj.app.a7_minutesworkoutapp.HistoryDatabase_Impl
+ luvraj.app.a7_minutesworkoutapp.HistoryDatabase_Impl$1
