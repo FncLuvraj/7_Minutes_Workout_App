@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import eu.tutorials.a7_minutesworkoutapp.R
-import eu.tutorials.a7_minutesworkoutapp.databinding.ItemExerciseStatusBinding
+import luvraj.app.a7_minutesworkoutapp.R
+import luvraj.app.a7_minutesworkoutapp.databinding.ItemExerciseStatusBinding
 
 class ExerciseStatusAdapter(val items: ArrayList<ExerciseModel>) :
     RecyclerView.Adapter<ExerciseStatusAdapter.ViewHolder>() {
