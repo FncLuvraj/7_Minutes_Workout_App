@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.lifecycle.lifecycleScope
-import eu.tutorials.a7_minutesworkoutapp.databinding.ActivityFinishBinding
+import luvraj.app.a7_minutesworkoutapp.databinding.ActivityFinishBinding
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
 import java.util.*
