@@ -1,6 +1,6 @@
 package luvraj.app.a7_minutesworkoutapp
 
-import eu.tutorials.a7_minutesworkoutapp.R
+import luvraj.app.a7_minutesworkoutapp.R
 import java.util.*
 
 /**
