@@ -12,9 +12,9 @@ import android.speech.tts.TextToSpeech
 import android.util.Log
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
-import eu.tutorials.a7_minutesworkoutapp.*
-import eu.tutorials.a7_minutesworkoutapp.databinding.ActivityExerciseBinding
-import eu.tutorials.a7_minutesworkoutapp.databinding.DialogCustomBackConfirmationBinding
+import luvraj.app.a7_minutesworkoutapp.*
+import luvraj.app.a7_minutesworkoutapp.databinding.ActivityExerciseBinding
+import luvraj.app.a7_minutesworkoutapp.databinding.DialogCustomBackConfirmationBinding
 import java.util.*
 import kotlin.collections.ArrayList
 
