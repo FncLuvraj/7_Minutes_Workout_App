@@ -4,8 +4,8 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import eu.tutorials.a7_minutesworkoutapp.R
-import eu.tutorials.a7_minutesworkoutapp.databinding.ActivityBmiBinding
+import luvraj.app.a7_minutesworkoutapp.R
+import luvraj.app.a7_minutesworkoutapp.databinding.ActivityBmiBinding
 import java.math.BigDecimal
 import java.math.RoundingMode
 
