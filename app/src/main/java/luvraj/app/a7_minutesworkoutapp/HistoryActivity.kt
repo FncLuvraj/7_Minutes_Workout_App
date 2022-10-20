@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import eu.tutorials.a7_minutesworkoutapp.databinding.ActivityHistoryBinding
+import luvraj.app.a7_minutesworkoutapp.databinding.ActivityHistoryBinding
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
 
