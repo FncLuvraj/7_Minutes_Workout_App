@@ -8,7 +8,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "eu.tutorials.a7_minutesworkoutapp"
+        applicationId "luvraj.app.a7_minutesworkoutapp"
         minSdk 21
         targetSdk 31
         versionCode 1
