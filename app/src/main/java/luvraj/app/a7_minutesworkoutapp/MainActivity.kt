@@ -3,7 +3,7 @@ package luvraj.app.a7_minutesworkoutapp
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import eu.tutorials.a7_minutesworkoutapp.databinding.ActivityMainBinding
+import luvraj.app.a7_minutesworkoutapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     //  The binding is name just like the name of the layout with Binding attached
